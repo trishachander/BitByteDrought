@@ -1,0 +1,58 @@
+body{
+  background-color : rgb(17, 88, 90);
+  margin: 0px;
+  color: rgb(176,223,229);
+}
+h1{
+  text-align: center;
+}
+
+#Map-container{
+  width: 60vw;
+  display: inline-block;
+  float: left;
+}
+#right-stuff{
+  width: 40vw;
+  display: inline-block;
+  float: left;
+}
+
+#slider-text{
+  text-align: center;
+  font-size: 1.4vw;
+  width: 30vw;
+  display: inline;
+  padding-bottom: 2vw;
+}
+
+#left-options{
+  width: 15vw;
+  float: left;
+  padding-left: 1vw;
+}
+#dropdown-container{
+  padding-top: 5vh;
+  color: black;
+}
+#monsoon{
+  padding-top: 16vh;
+}
+#level-container{
+  padding-top: 16vh;
+}
+#Map{
+  float: left;
+  width: 40vw;
+  padding-left: 2vw;
+  padding-top: 3vh;
+  height: 75vh;
+}
+#years-slider{
+  width: 55vw;
+}
+#rdropdown-container{
+  padding-top: 2.5vh;
+  padding-bottom: 4vh;
+  color: black;
+}
